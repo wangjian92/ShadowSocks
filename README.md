@@ -15,9 +15,9 @@ Shadowsocks的运行原理与其他代理工具基本相同，使用特定的中
 在服务器端部署完成后，用户需要按照指定的密码、加密方式和端口，使用客户端软件与其连接。在成功连接到服务器后，客户端会在本机上构建一个本地Socks5代理（或VPN、透明代理）。浏览网络时，网络流量会被分到本地Socks5代理，客户端将其加密之后发送到服务器，服务器以同样的加密方式将流量回传给客户端，以此实现代理上网。
 
 ### 提前准备好这些
-[ShadowSocks](https://github.com/shadowsocks/shadowsocks-windows/releases)——我选用的是比较老的2.5.8版本
-[xshell](https://xshell.en.softonic.com/)——用于操作远程服务
-还有购买vultr服务需要准备至少$10...土豪请忽略这行
+- [ShadowSocks](https://github.com/shadowsocks/shadowsocks-windows/releases)——我选用的是比较老的2.5.8版本
+- [xshell](https://xshell.en.softonic.com/)——用于操作远程服务
+- 还有购买vultr服务需要准备至少$10...土豪请忽略这行
 
 ##  BEGIN
 ### 一、充值VULTR服务
