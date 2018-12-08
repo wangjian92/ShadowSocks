@@ -3,7 +3,7 @@
 这篇文章源于自己近来使用vultr折腾ShadowSocks而做的记录
 **科学上网，请合法参考、使用本文**
 
-- [本文地址-GitHub](https://github.com/wangjian92)
+- [本文地址-GitHub](https://github.com/wangjian92/ShadowSocks)
 - [本文地址-简书](https://www.jianshu.com/p/216885c33ed8)
 
 ## PREPARE
